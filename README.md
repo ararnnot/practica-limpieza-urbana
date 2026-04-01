@@ -11,24 +11,24 @@ Para ello, se proporciona a los alumnos:
 - Funciones predefinidas para abstraer los detalles técnicos de la implementación.
 - Una representación gráfica del entorno urbano adecuada para el análisis.
 
-Este enfoque permite a los estudiantes centrarse en los conceptos fundamentales de la teoría de grafos, como el modelado de grafos, los caminos más cortos y los problemas de enrutamiento (por ejemplo, el problema del cartero chino), mientras trabajan con conjuntos de datos realistas.
+Este enfoque permite a los estudiantes centrarse en los conceptos fundamentales de la teoría de grafos, como el modelado de grafos, los caminos más cortos y los problemas de enrutamiento (en este caso, el problema del cartero chino), mientras trabajan con conjuntos de datos realistas.
 
 ## 🎯 Objetivos educativos
 
-- Aplicar conceptos de la teoría de grafos a problemas del mundo real.
-- Comprender el modelado de grafos a partir de datos espaciales.
-- Trabajar con grafos ponderados y dirigidos.
-- Explorar problemas de optimización en redes urbanas.
+- RELLENAR
 
 ## 🧰 Tecnologías
 
 - Python
 - OSMnx
-- NetworkX
 - MadnessMad
 
 ## 📍 Contexto de ejemplo
 
-Se utilizan barrios de Valencia (España) como casos prácticos, aunque el flujo de trabajo puede aplicarse a cualquier ubicación compatible con OpenStreetMap.
+Se utilizan barrios de Valencia (España) como casos prácticos en el fichero de ejemplo, aunque el flujo de trabajo puede aplicarse a cualquier ubicación compatible con OpenStreetMap.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+## 📚 References
+
+- OpenStreetMap contributors. *OpenStreetMap*. https://www.openstreetmap.org
+- Boeing, G. (2017). *OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks*. Computers, Environment and Urban Systems, 65, 126–139.
+- Costa, P. MadnessMad. *Graph visualization and analysis software*. https://prudenk.github.io/madness-mad-web/
